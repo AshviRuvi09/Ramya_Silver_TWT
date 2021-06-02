@@ -91,6 +91,6 @@ Publishing can be a complicated process – or it can be extremely easy. Publica
 I’ve personally been involved in projects where production involved graphic design, translation into 40+ languages, production of multiple regional variations of the documentation, preparing ‘docupacks’ for shipping to multiple regions worldwide… this sort of thing is a real logistical feat, and it’s something you should consider early on in the process – preferably whilst you’re still planning a document. Steps such as graphic design, translation and print production can involve substantial time, effort and cost.
 In my book, I discuss publication, covering many common tasks such as performing final checks, communicating with stakeholders, and establishing a version control system that’s suitable for the majority of technical documents. It also includes discussion of more advanced scenarios such as print production and translation.
 
-({{ site.googleURL }})
+[click here]({{ site.googleURL }})
 -------
 page.createdon: {{page.createdon}}
