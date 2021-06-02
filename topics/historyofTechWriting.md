@@ -2,7 +2,7 @@
 layout:historyofTechWriting
 source: Wikipedia
 ---
-#History of Technical Writing
+History of Technical Writing
 While technical writing has only been recognized as a profession since World War II,[6]:2 its roots can be traced to classical antiquity. Critics cite the works of writers like Aristotle as the earliest forms of technical writing. Geoffrey Chaucer's work, Treatise on the Astrolabe, is an early example of a technical document. The earliest examples of technical writing date back to the Old English period.
 
 With the invention of the mechanical printing press, the onset of the Renaissance and the rise of the Age of Reason, documenting findings became a necessity. Inventors and scientists like Isaac Newton and Leonardo da Vinci prepared documents that chronicled their inventions and findings.While never called technical documents during their period of publication, these documents played a crucial role in developing modern forms of technical communication and writing.
