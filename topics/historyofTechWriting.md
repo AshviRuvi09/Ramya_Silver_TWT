@@ -1,6 +1,7 @@
 ---
 layout:historyofTechWriting
 source: Wikipedia
+link: topics/historyofTechWriting.md
 ---
 
 History of Technical Writing
@@ -9,7 +10,7 @@ While technical writing has only been recognized as a profession since World War
 
 With the invention of the mechanical printing press, the onset of the Renaissance and the rise of the Age of Reason, documenting findings became a necessity. Inventors and scientists like Isaac Newton and Leonardo da Vinci prepared documents that chronicled their inventions and findings.While never called technical documents during their period of publication, these documents played a crucial role in developing modern forms of technical communication and writing.
 
-** Hey {{ site.name }}**
+[click here]({{page.link}})
 
 The field of technical communication grew during the Industrial Revolution.[10]:3 There was an increasing need to provide people with instructions for using the more and more complex machines that were being invented.[10]:8 However, unlike the past, where skills were handed down through oral traditions, no one besides the inventors knew how to use these new devices. Writing thus became the fastest and most effective way to disseminate information, and writers who could document these devices were desired.
 
