@@ -5,7 +5,7 @@ createdon: 01-June-2021
 
 Just like any other business activity, technical writing can be boiled down to a process – a set of high-level steps. These five steps are Plan, Structure, Write, Review and Publish. These high-level steps are the common elements in virtually every technical writing project – really in any business writing project – big or small.
 
-##STEP 1 – PLAN
+## STEP 1 – PLAN
 All projects need to be planned – at least at some level. Whilst you don’t have to go create a detailed Gantt chart for every technical writing project, it certainly helps if you answer some of the following questions before you put pen to paper. The results of this planning may be as simple as some bullet points jotted down in your notepad – or you may find that simply going through this as a mental exercise is sufficient.
 
 When you’re planning to write technical documents, you should ask yourself:
@@ -19,7 +19,7 @@ Along with these basic questions (which apply to almost any project – not just
 - Editing Sheet – A document that professional editors use when editing a large and complex document
 - Review Log – To track the feedback received and actions taken to close each item out.
 
-##STEP 2 – STRUCTURE
+## STEP 2 – STRUCTURE
 A structure is the backbone of your document – the hierarchy of headings that define the logical order that it will progress. Structure is absolutely essential to successful documents, and it’s something that you should develop before you start writing. A well-structured document is one that has had thought go into it beforehand, which means you’re less likely to need to rehash it later on.
 
 It’s important to understand that structure isn’t a straightjacket – it’ll evolve and change as you write and review the document. After you publish, you may end up with a very different-looking document to the one you envisaged – that’s perfectly normal and there’s nothing at all wrong with it!
@@ -34,7 +34,7 @@ Whatever approach you choose, you’ll need to work with your subject matter exp
 
 In my book, each of these approaches is explained in detail, and I’ve devoted particular attention to the process-based approach as it’s the norm – and best practice – in so many technical documents.
 
-##STEP 3 – WRITE
+## STEP 3 – WRITE
 Writing is where you convert your bare-bones table of contents and notes into a series of drafts, culminating in a draft that’s ready for formal review. Contrary to popular impression, writing is only about 20-30% of the process in a well-planned document – much of the effort goes into planning, structuring, and reviewing your work. In fact, the more time you spend planning and structuring your work, the less time you’re likely to spend on writing.
 
 There are a few time-honoured (as well as some new) techniques that technical writers draw on:
@@ -57,7 +57,7 @@ The final part of writing is formatting and laying out your draft before you lau
 
 In my book, I discuss the Write step in detail, including the techniques described above. I also include a number of other important aspects such graphic design tips for writers and how to establish and build good working relationships with your subject matter experts.
 
-##STEP 4 – REVIEW
+## STEP 4 – REVIEW
 I like to think of review as the polishing stage. It’s where your document gets the trial by fire, so to speak, of having others formally review it, as well as undergoing another very important task – editing and proofing.
 
 (Sidenote: Editing and proofing is in itself the topic of numerous books. In my book Technical Writing Process, I’ve provided a practical, no-nonsense editing model – The Seven Levels of Editing – that’s suitable for technical or business documents.)
@@ -85,7 +85,7 @@ Review was my favourite chapter to write in my book Technical Writing Process, b
 A sample Message to Review Team
 I’ve also covered topics such as peer review and testing, as well as explaining in detail how to conduct – and get the most out of – the review process, including final sign off.
 
-##STEP 5 – PUBLISH
+## STEP 5 – PUBLISH
 Publishing can be a complicated process – or it can be extremely easy. Publication is where writers manufacture and launch the final product. This might be as straightforward as emailing an approved document to your manager, or uploading it to a content management system or intranet. On the other hand, it might involve some fairly complicated logistics.
 
 I’ve personally been involved in projects where production involved graphic design, translation into 40+ languages, production of multiple regional variations of the documentation, preparing ‘docupacks’ for shipping to multiple regions worldwide… this sort of thing is a real logistical feat, and it’s something you should consider early on in the process – preferably whilst you’re still planning a document. Steps such as graphic design, translation and print production can involve substantial time, effort and cost.
