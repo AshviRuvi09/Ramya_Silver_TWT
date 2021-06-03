@@ -13,6 +13,7 @@ While technical writing has only been recognized as a profession since World War
 With the invention of the mechanical printing press, the onset of the Renaissance and the rise of the Age of Reason, documenting findings became a necessity. Inventors and scientists like Isaac Newton and Leonardo da Vinci prepared documents that chronicled their inventions and findings.While never called technical documents during their period of publication, these documents played a crucial role in developing modern forms of technical communication and writing.
 
 [click here]({{ site.googleURL }})
+[click here to access History of Technical writing] ({{ site.link }})
 
 {% for item in site.data.TechnicalWriting %}
 -  {{item.Parent}}, {{item.company}}
