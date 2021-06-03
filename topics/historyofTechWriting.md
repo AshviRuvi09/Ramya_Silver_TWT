@@ -4,6 +4,8 @@ source: Wikipedia
 link: topics/historyofTechWriting.md
 ---
 
+{% include TWT_Examples_TW.txt %}
+
 History of Technical Writing
 
 While technical writing has only been recognized as a profession since World War II,[6]:2 its roots can be traced to classical antiquity. Critics cite the works of writers like Aristotle as the earliest forms of technical writing. Geoffrey Chaucer's work, Treatise on the Astrolabe, is an early example of a technical document. The earliest examples of technical writing date back to the Old English period.
