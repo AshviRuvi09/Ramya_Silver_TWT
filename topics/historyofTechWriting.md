@@ -14,7 +14,7 @@ With the invention of the mechanical printing press, the onset of the Renaissanc
 
 [click here]({{ site.googleURL }})
 
-[click here] ({{ site.link }})
+[click here] ({{ site.googleURL }})
 
 {% for item in site.data.TechnicalWriting %}
 -  {{item.Parent}}, {{item.company}}
