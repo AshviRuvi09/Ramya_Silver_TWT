@@ -13,8 +13,9 @@ With the invention of the mechanical printing press, the onset of the Renaissanc
 [click here]({{ site.googleURL }})
 
 {% for item in site.data.TechnicalWriting %}
--  {{item.Point}}
+-  {{item.Main}}
 {% endfor %}
+
 The field of technical communication grew during the Industrial Revolution.[10]:3 There was an increasing need to provide people with instructions for using the more and more complex machines that were being invented.[10]:8 However, unlike the past, where skills were handed down through oral traditions, no one besides the inventors knew how to use these new devices. Writing thus became the fastest and most effective way to disseminate information, and writers who could document these devices were desired.
 
 During the 20th century, the need for technical writing skyrocketed, and the profession finally became officially recognized. The events of World War I and World War II led to advances in medicine, military hardware, computer technology, and aerospace technologies. This rapid growth, coupled with the urgency of war, created an immediate need for well-designed and written documents that chronicled the use of these technologies. Technical writing was in high demand during this time, and "technical writer" became an official job title during World 
